@@ -1,0 +1,1 @@
+Run the test.sh file in the terminal to test nameSorter.
