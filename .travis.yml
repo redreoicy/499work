@@ -4,4 +4,4 @@ language: python
   - "3.5"
   - "3.6"
 script: 
-  - Test.sh
+  - sh Test.sh
