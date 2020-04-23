@@ -4,5 +4,5 @@ then
   echo "Test Passed"
 else
   echo "Test Failed"
+  exit 1
 fi
-sleep 5s
