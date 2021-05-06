@@ -1,2 +1,3 @@
 #don't allow any EOL to be converted
-* -text
+*.sh binary
+*.txt binary
