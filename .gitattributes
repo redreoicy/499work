@@ -1,2 +1,2 @@
-#don't allow .sh EOL to be converted
-*.sh -text
+#don't allow any EOL to be converted
+*. -text
