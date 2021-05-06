@@ -1,5 +1,5 @@
 python3 nameSorter.py < Sort_Me.txt > output.txt
-if diff output.txt Sorted.txt
+if diff -u output.txt Sorted.txt
 
 then
 
